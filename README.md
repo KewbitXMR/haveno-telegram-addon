@@ -4,7 +4,7 @@
 <a href="https://haveno.app"><img src="https://github.com/KewbitXMR/haveno-app/blob/main/assets/android-chrome-512x512.png?raw=true" width=150 /></a>
 <br>
 <a href="https://haveno.app"><img src="https://raw.githubusercontent.com/KewbitXMR/haveno-app/refs/heads/main/assets/icon/side1.webp" width=100 /></a>
-<a href="https://haveno.app"><img src="https://raw.githubusercontent.com/KewbitXMR/haveno-app/refs/heads/main/assets/icon/270a7bad400e6824b8ea9f238f66b61a.webp" width=275 /></a>
+<a href="https://haveno.app"><img src="https://github.com/KewbitXMR/haveno-app/blob/main/assets/icon/telegram%20haveno%20pic.webp?raw=true" width=275 /></a>
 <a href="https://haveno.app"><img src="https://raw.githubusercontent.com/KewbitXMR/haveno-app/refs/heads/main/assets/icon/side2.webp" width=100 /></a>
 </p>
 
